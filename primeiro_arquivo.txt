@@ -1,0 +1,13 @@
+Git é um sistema de controle de versão, que basicamente salva todas as versões do projeto e facilita o trabalho em equipe.
+Para que isso aconteça, deve-se criar um repositório remoto. Existem várias plataformas que criam repositórios, porém as mais conhecidas são:
+GitHub, GitLab, CodeSubimmit e Bitbucket.
+Após a criação do repositório, pode-se fazer todas as funções do Git, que são algumas:
+
+- Git clone: (Usado para obter uma cópia de um repositório Git existente em sua máquina).
+- Git init (Para inicializar o monitoramento do Git em um projeto existente).
+- Git status (Para vizualizar status dos arquivos do projeto).
+- Git diff (Para vizualizar mudanças feitas em arquivos monitorados).
+- Git log (Para vizualizar histórico de commits).
+- Commit (Commitar modificações, essas modificações serão inseridas no histórido do projeto).
+- Pull (Trazer modificações que fizeram e commitaram no repositório).
+- Push (Enviar os commits de volta para o repositório).
